@@ -1,63 +1,110 @@
 # Engineering Portfolio
 
-Professional engineering portfolio showcasing projects in PCB design, embedded systems, wireless charging, power electronics, semiconductor fabrication, and hardware validation.
+This repository contains my personal engineering portfolio developed to showcase hardware and electrical engineering projects completed during my Bachelor of Science in Electrical Engineering at Boston University.
 
-## Live Website
+The portfolio demonstrates experience in embedded systems, PCB design, power electronics, wireless charging, semiconductor fabrication, sensing systems, and hardware validation through complete engineering case studies from concept to tested prototype.
 
-[View Portfolio](https://renad-alanazi.vercel.app)
+## Live Portfolio
+
+**Website:**  
+https://renad-alanazi.vercel.app
 
 ## Resume
 
-[View Resume PDF](Renad_Alanazi_Resume.pdf)
+**Resume (PDF):**  
+[Renad Alanazi Resume](Renad_Alanazi_Resume.pdf)
 
-## Featured Projects
+## Featured Engineering Projects
 
 ### Personal Alert Device
+Wearable embedded system featuring a custom PCB, Bluetooth Low Energy communication, heart rate and temperature monitoring, rechargeable battery integration, and a custom enclosure.
 
-Wearable embedded system built around a custom PCB, BLE communication, heart-rate monitoring, temperature sensing, battery integration, and a 3D-printed enclosure.
+**Project Page:**  
+https://renad-alanazi.vercel.app/PAD.dc.html
 
 ### Wireless Charging System
+Custom inductive wireless charging solution developed for the wearable device, including transmitter, receiver, charging dock, battery integration, and electrical validation.
 
-Inductive wireless charging system for a wearable device, including transmitter, receiver, charging dock, battery integration, and bench validation.
+**Project Page:**  
+https://renad-alanazi.vercel.app/Wireless-Charging.dc.html
 
 ### Semiconductor Fabrication
+Semiconductor fabrication project involving wafer design, cleanroom processing, photolithography, device fabrication, and laboratory characterization.
 
-Semiconductor fabrication and wafer processing project involving cleanroom processes, photolithography, wafer design, and device fabrication.
+**Project Page:**  
+https://renad-alanazi.vercel.app/Semiconductor-Fabrication.dc.html
 
 ### Automotive Rain-Sensing System
+Embedded automotive sensing system designed to detect rainfall and automatically control windshield wipers and headlights using custom sensing electronics.
 
-Automotive control system that detects rainfall and automatically activates headlights and windshield wipers based on rain intensity.
+**Project Page:**  
+https://renad-alanazi.vercel.app/Rain-Sensing-System.dc.html
 
 ### Traffic Signal Controller
+Digital logic traffic signal controller designed using discrete electronics, analog timing circuits, LED driver circuits, and hardware testing.
 
-Discrete logic traffic signal controller implemented using digital electronics, analog timing circuits, LED drivers, and hardware testing.
+**Project Page:**  
+https://renad-alanazi.vercel.app/Traffic-Signal-Controller.dc.html
 
-## Technical Focus
+## Technical Skills
 
-PCB Design  
-Embedded Systems  
-Power Electronics  
-Wireless Power Transfer  
-Semiconductor Fabrication  
-Hardware Prototyping  
-Circuit Design and Debugging  
-Testing and Validation  
+### Hardware
+
+- PCB Design
+- Embedded Systems
+- Power Electronics
+- Wireless Power Transfer
+- Semiconductor Fabrication
+- Hardware Prototyping
+- Circuit Design
+- Hardware Testing and Validation
+
+### Software & Tools
+
+- HTML
+- CSS
+- JavaScript
+- MATLAB
+- LTspice
+- Cadence Virtuoso
+- Git
+- GitHub
+- Vercel
 
 ## Repository Structure
 
-index.html  
-Portfolio.dc.html  
-PAD.dc.html  
-Wireless-Charging.dc.html  
-Semiconductor-Fabrication.dc.html  
-Rain-Sensing-System.dc.html  
-Traffic-Signal-Controller.dc.html  
-Resume.dc.html  
-Renad_Alanazi_Resume.pdf  
-support.js  
-images/projects/  
+```
+engineering-portfolio/
+├── index.html
+├── Portfolio.dc.html
+├── PAD.dc.html
+├── Wireless-Charging.dc.html
+├── Semiconductor-Fabrication.dc.html
+├── Rain-Sensing-System.dc.html
+├── Traffic-Signal-Controller.dc.html
+├── Resume.dc.html
+├── Renad_Alanazi_Resume.pdf
+├── support.js
+└── images/
+    └── projects/
+```
+
+## About
+
+**Renad Alanazi**  
+Bachelor of Science in Electrical Engineering  
+Boston University
 
 ## Contact
 
-Portfolio: [renad-alanazi.vercel.app](https://renad-alanazi.vercel.app)  
-LinkedIn: [linkedin.com/in/renad-alanazi](https://www.linkedin.com/in/renad-alanazi/)
+**Portfolio**  
+https://renad-alanazi.vercel.app
+
+**LinkedIn**  
+https://www.linkedin.com/in/renad-alanazi/
+
+**GitHub**  
+https://github.com/Renad-Alanazi
+
+**Location**  
+Riyadh, Saudi Arabia
