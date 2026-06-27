@@ -1,54 +1,98 @@
 # Engineering Portfolio
 
-This repository contains my personal engineering portfolio developed to showcase hardware and electrical engineering projects completed during my Bachelor of Science in Electrical Engineering at Boston University.
+<p align="center">
+  <a href="https://renad-alanazi.vercel.app">
+    <img src="images/portfolio-homepage.png" alt="Engineering Portfolio Homepage" width="100%">
+  </a>
+</p>
 
-The portfolio demonstrates experience in embedded systems, PCB design, power electronics, wireless charging, semiconductor fabrication, sensing systems, and hardware validation through complete engineering case studies from concept to tested prototype.
+<p align="center">
+  <a href="https://renad-alanazi.vercel.app"><strong>Live Portfolio</strong></a> •
+  <a href="Renad_Alanazi_Resume.pdf"><strong>Resume</strong></a> •
+  <a href="https://www.linkedin.com/in/renad-alanazi/"><strong>LinkedIn</strong></a>
+</p>
+
+---
+
+## Overview
+
+This repository contains my personal engineering portfolio showcasing hardware and electrical engineering projects completed during my Bachelor of Science in Electrical Engineering at Boston University.
+
+The portfolio demonstrates experience in embedded systems, PCB design, power electronics, wireless charging, semiconductor fabrication, sensing systems, and hardware validation through complete engineering projects spanning concept development, hardware implementation, testing, and validation.
 
 ## Live Portfolio
 
-**Website:**  
+**Website**
+
 https://renad-alanazi.vercel.app
+
+Or click here:
+
+**https://renad-alanazi.vercel.app**
 
 ## Resume
 
-**Resume (PDF):**  
-[Renad Alanazi Resume](Renad_Alanazi_Resume.pdf)
+**View Resume**
 
-## Featured Engineering Projects
+[Renad Alanazi Resume (PDF)](Renad_Alanazi_Resume.pdf)
 
-### Personal Alert Device
-Wearable embedded system featuring a custom PCB, Bluetooth Low Energy communication, heart rate and temperature monitoring, rechargeable battery integration, and a custom enclosure.
+---
 
-**Project Page:**  
+# Featured Engineering Projects
+
+## Personal Alert Device
+
+Wearable embedded system featuring a custom PCB, Bluetooth Low Energy communication, heart rate monitoring, temperature sensing, rechargeable battery integration, and a custom enclosure.
+
+**Project**
+
 https://renad-alanazi.vercel.app/PAD.dc.html
 
-### Wireless Charging System
+---
+
+## Wireless Charging System
+
 Custom inductive wireless charging solution developed for the wearable device, including transmitter, receiver, charging dock, battery integration, and electrical validation.
 
-**Project Page:**  
+**Project**
+
 https://renad-alanazi.vercel.app/Wireless-Charging.dc.html
 
-### Semiconductor Fabrication
+---
+
+## Semiconductor Fabrication
+
 Semiconductor fabrication project involving wafer design, cleanroom processing, photolithography, device fabrication, and laboratory characterization.
 
-**Project Page:**  
+**Project**
+
 https://renad-alanazi.vercel.app/Semiconductor-Fabrication.dc.html
 
-### Automotive Rain-Sensing System
+---
+
+## Automotive Rain-Sensing System
+
 Embedded automotive sensing system designed to detect rainfall and automatically control windshield wipers and headlights using custom sensing electronics.
 
-**Project Page:**  
+**Project**
+
 https://renad-alanazi.vercel.app/Rain-Sensing-System.dc.html
 
-### Traffic Signal Controller
+---
+
+## Traffic Signal Controller
+
 Digital logic traffic signal controller designed using discrete electronics, analog timing circuits, LED driver circuits, and hardware testing.
 
-**Project Page:**  
+**Project**
+
 https://renad-alanazi.vercel.app/Traffic-Signal-Controller.dc.html
 
-## Technical Skills
+---
 
-### Hardware
+# Technical Skills
+
+## Hardware
 
 - PCB Design
 - Embedded Systems
@@ -59,7 +103,7 @@ https://renad-alanazi.vercel.app/Traffic-Signal-Controller.dc.html
 - Circuit Design
 - Hardware Testing and Validation
 
-### Software & Tools
+## Software & Tools
 
 - HTML
 - CSS
@@ -71,9 +115,11 @@ https://renad-alanazi.vercel.app/Traffic-Signal-Controller.dc.html
 - GitHub
 - Vercel
 
-## Repository Structure
+---
 
-```
+# Repository Structure
+
+```text
 engineering-portfolio/
 ├── index.html
 ├── Portfolio.dc.html
@@ -86,25 +132,38 @@ engineering-portfolio/
 ├── Renad_Alanazi_Resume.pdf
 ├── support.js
 └── images/
+    ├── portfolio-homepage.png
     └── projects/
 ```
 
-## About
+---
 
-**Renad Alanazi**  
-Bachelor of Science in Electrical Engineering  
+# About
+
+**Renad Alanazi**
+
+Bachelor of Science in Electrical Engineering
+
 Boston University
 
-## Contact
+Electrical Engineering Graduate
 
-**Portfolio**  
+---
+
+# Contact
+
+**Portfolio**
+
 https://renad-alanazi.vercel.app
 
-**LinkedIn**  
+**LinkedIn**
+
 https://www.linkedin.com/in/renad-alanazi/
 
-**GitHub**  
+**GitHub**
+
 https://github.com/Renad-Alanazi
 
-**Location**  
+**Location**
+
 Riyadh, Saudi Arabia
